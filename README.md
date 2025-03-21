@@ -8,7 +8,11 @@ Conway's Game of Life is a zero-player cellular automaton where cells evolve ove
 
 A demo video showcasing the simulation is available in the repository.
 
-/Users/tapasviarora/Desktop/GameOfLife/demo.mp4
+
+
+https://github.com/user-attachments/assets/2aa43c42-4f27-4190-a589-c2da36b8f6bb
+
+
 
 
 ---
@@ -93,7 +97,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Developed by **[Tapasvi Arora]**.
+Developed by **Tapasvi Arora**.
 
 Feel free to contribute, raise issues, or suggest improvements!
 
