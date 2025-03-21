@@ -8,7 +8,8 @@ Conway's Game of Life is a zero-player cellular automaton where cells evolve ove
 
 A demo video showcasing the simulation is available in the repository.
 
-[![Watch the video](https://github.com/Tapasvi48/Convoy-Game-of-Life/blob/main/demo.mp4)](https://github.com/Tapasvi48/Convoy-Game-of-Life/blob/main/demo.mp4)
+/Users/tapasviarora/Desktop/GameOfLife/demo.mp4
+
 
 ---
 
