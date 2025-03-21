@@ -224,7 +224,7 @@ func main() {
 	// }
 
 	rand.Seed(time.Now().UnixNano())
-	game := NewGame(20, 60)
+	game := NewGame(15, 60)
 	game.initGame("glider")
 	app := tview.NewApplication()
 	grid := tview.NewTable().SetBorders(true).SetBordersColor(tcell.ColorGray)
